@@ -1,0 +1,18 @@
+.filter-header{
+    max-width: 515px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.filter-title{
+    font-weight: bold;
+    font-size: 16px;
+}
+.reset-button{
+    color: #0080A4;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    cursor: pointer;
+}

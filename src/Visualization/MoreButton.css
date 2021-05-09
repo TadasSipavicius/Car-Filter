@@ -1,0 +1,23 @@
+.more-button-unclicked{
+    display: flex;
+    width: 95px;
+    font-size: 14px;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+}
+
+.more-button-clicked{
+    display: flex;
+    width: 95px;
+    font-size: 14px;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    background-color: #253138;
+    color: #D8E4D4;
+}
+
+.more{
+    margin-right: 8px;
+}

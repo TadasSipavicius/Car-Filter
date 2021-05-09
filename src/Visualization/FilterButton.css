@@ -1,0 +1,29 @@
+.car-button-{
+    margin-right: 5px;
+}
+button{
+    width: 100px;
+    height: 70px;
+    border: 1px solid#B0B0B0;
+    border-radius: 5px;
+    background-color: white;
+}
+button img{
+    height: 40px;
+}
+.button-name{
+    font-weight: bold;
+    font-size: 15px;
+}
+.button-clicked{
+    background-color: #253138;
+    color: #D8E4D4;
+}
+.cars-name{
+    float: left;
+    font-size: 12px;
+    font-weight: 400;
+}
+.more{
+    float: left;
+}

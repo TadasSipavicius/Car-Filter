@@ -1,0 +1,38 @@
+.dropdown-car{
+    padding-top: 5px;
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    justify-content: space-between;
+}
+.dropdown-car:hover{
+    background-color: #C8C8C8;
+}
+.left-side{
+    display: flex;
+}
+label{
+    display: flex;
+}
+input[type="checkbox"]{
+    margin-top: 12px;
+    margin-left: 15px;
+    height: 18px;
+    width: 18px;
+    line-height: 40px;
+}
+label img{
+    height: 40px;
+    margin-left: 12px;
+}
+.car-name{
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 12px;
+    line-height: 40px;
+}
+.car-price{
+    color: #757575;
+    line-height: 43px;
+    margin-right: 10px;
+}
